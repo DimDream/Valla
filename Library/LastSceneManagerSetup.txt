@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/sences/Jaina room.unity
+  isLoaded: 1
+  isActive: 1
