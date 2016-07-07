@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/sences/Jaina room.unity
+- path: Assets/sences/desert.unity
   isLoaded: 1
   isActive: 1
