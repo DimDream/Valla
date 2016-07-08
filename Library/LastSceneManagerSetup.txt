@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/sences/desert.unity
+- path: Assets/sences/luxoria runion.unity
   isLoaded: 1
   isActive: 1
